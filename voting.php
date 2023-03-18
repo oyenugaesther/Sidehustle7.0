@@ -1,0 +1,4 @@
+<?php
+ $vote = "vvote";
+ ifif))
+?>
